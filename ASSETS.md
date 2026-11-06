@@ -1,0 +1,7 @@
+# Hero asset
+
+Saved project asset: public/hero-cinematic.png
+Method: built-in image generation.
+Final prompt:
+
+Use case: photorealistic-natural. Asset type: full-bleed cinematic website hero background for a modern high-end business finance firm MoneyTMS. Create a breathtaking editorial architectural photograph in ultrawide 16:9 composition, no text or logos. A monumental elegant contemporary glass skyscraper seen from a very low angle, its ribbed curved facades sweep upward from the lower right into the upper right, dramatic perspective and sharp rhythm of vertical steel lines. Left third is mostly open moody deep slate-blue twilight sky with subtle atmospheric haze and soft clouds. A smaller elegant second tower partly frames far left bottom, distant city and dark leafy trees occupy the very lowest edge. Blue-hour navy and muted cobalt glass, subtle silver reflections, sparse warm illuminated windows, natural rich forest green at the base. Fine-art architectural photography, physically realistic high-end materials, subdued cinematic film grain, extraordinary sense of scale, confident and quiet, shot on large format 24mm lens. Broad calm dark areas in upper left and middle for gigantic white typography that will be added in code. No orange sunset, no oversaturated teal, no stock business people, no financial charts, no floating graphics, no visible text or typography. Image only. Wide landscape.
